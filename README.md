@@ -1,2 +1,2 @@
 # Engg1101
-An In-class repo
+I want to use GitHub for my engineering projects.
